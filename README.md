@@ -10,6 +10,8 @@
 
 This was recorded on a device, not a simulator.
 
+https://github.com/user-attachments/assets/3ac62bb1-8abc-48c4-9aac-5de332fb003c
+
 ## Installation
 
 - run `npm i`
@@ -24,6 +26,8 @@ With more time and for a production project I would do the following:
 - use a router to handle navigation (Expo router / React navigation)
 - haptics would be a nice touch to the button interactions
 - app assets (icon / in app assets)
+- now I'm using alert prompts to take in user input (new todo content), with more time I'd use custom bottom sheets / modal inputs to take in user data
+- I've only added a few tests to give an idea of how I'd test. In practice I'd want to increase cover of the different component states.
 
 ## Testing
 
