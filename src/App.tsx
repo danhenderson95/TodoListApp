@@ -30,7 +30,7 @@ const App = (): React.JSX.Element => {
 };
 
 ////////////////////
-//////////////////// RENDER
+//////////////////// STYLES
 ////////////////////
 
 const styles = StyleSheet.create({
